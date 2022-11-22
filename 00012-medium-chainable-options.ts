@@ -14,7 +14,7 @@ type Chainable<T = {}> = {
 }
 
 /* _____________ 测试用例 _____________ */
-import type { Alike, Expect, Debug } from '@type-challenges/utils'
+import type { Alike, Expect } from '@type-challenges/utils'
 
 declare const a: Chainable
 
